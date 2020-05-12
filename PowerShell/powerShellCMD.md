@@ -8,7 +8,7 @@ The execution policies you can use are:
 - RemoteSigned - Scripts created locally will run, but those downloaded from the Internet will not (unless they are digitally signed by a trusted publisher).
 - AllSigned - Scripts will run only if they have been signed by a trusted publisher.
 - Unrestricted - Scripts will run regardless of where they have come from and whether they are signed.
-- 
+
 You can set PowerShell's execution policy by using the following cmdlet:
 ```sh
 Set-ExecutionPolicy <policy name>
@@ -27,6 +27,7 @@ To help you understand how pipelining works, imagine that you want to create a l
 ```sh
 Get-Process | Sort-Object ID
 ```
+
 ## Variables
 Although you can use pipelining to feed one command's output into another command, sometimes pipelining alone won't get the job done. When you pip
 eline a command's output into another command, that output is used immediately. Occasionally, you may need to store the output for a while so that you can use (or reuse) it later. This is where variables come into play.
@@ -41,6 +42,7 @@ You can assign a variable to the final output of multiple commands that have bee
 ```sh
 $a = (Get-Process | Sort-Object ID)
 ```
+
 ## The @ symbol
 By using the @ symbol, you can turn the contents of a list into an array. For example, take the following line of code, which creates a variable named $Procs that contains multiple lines of text (an array):
 ```sh
@@ -50,7 +52,8 @@ You can also use the @ symbol when the variable is used, to ensure that it is tr
 ```sh
 Get-Process @procs
 ```
-# Split
+
+## Split
 The split operator splits a text string based on a character you designate. For example, suppose that you want to break a sentence into an array consisting of each individual word in the sentence. You could do so by using a command like this one:
 ```sh
 "This is a test" -split " "
