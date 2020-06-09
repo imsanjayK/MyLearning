@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpe8.0/1.0.0": {
+        "runtime": {
+          "CSharpe8.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpe8.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

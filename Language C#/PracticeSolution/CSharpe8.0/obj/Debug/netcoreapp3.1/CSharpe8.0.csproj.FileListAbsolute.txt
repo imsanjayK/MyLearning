@@ -1,0 +1,13 @@
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\bin\Debug\netcoreapp3.1\CSharpe8.0.exe
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\bin\Debug\netcoreapp3.1\CSharpe8.0.deps.json
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\bin\Debug\netcoreapp3.1\CSharpe8.0.runtimeconfig.json
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\bin\Debug\netcoreapp3.1\CSharpe8.0.runtimeconfig.dev.json
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\bin\Debug\netcoreapp3.1\CSharpe8.0.dll
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\bin\Debug\netcoreapp3.1\CSharpe8.0.pdb
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\obj\Debug\netcoreapp3.1\CSharpe8.0.csprojAssemblyReference.cache
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\obj\Debug\netcoreapp3.1\CSharpe8.0.csproj.CoreCompileInputs.cache
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\obj\Debug\netcoreapp3.1\CSharpe8.0.AssemblyInfoInputs.cache
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\obj\Debug\netcoreapp3.1\CSharpe8.0.AssemblyInfo.cs
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\obj\Debug\netcoreapp3.1\CSharpe8.0.dll
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\obj\Debug\netcoreapp3.1\CSharpe8.0.pdb
+F:\MyDevEnv\GitHub_Workspace\MyLearning\Language C#\PracticeSolution\CSharpe8.0\obj\Debug\netcoreapp3.1\CSharpe8.0.genruntimeconfig.cache
